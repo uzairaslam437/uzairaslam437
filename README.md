@@ -1,12 +1,12 @@
 ## Hey, I'm Uzair Aslam 👋
 
-I like hiking, explaining geoplotics and solving coding problems.
+I like hiking, explaining geo-politics and solving coding problems.
 
 ### 👨‍💻 About me
-Hello there! 👋 I'm Uzair,computer science student from Air University, Islamabad. 
+I'm Uzair,computer science student from Air University, Islamabad. 
 
 ### 👥 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/uzairaslam1)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:mruzairaslam1@gmail.com)
 
 ### 🚀 My Skills
