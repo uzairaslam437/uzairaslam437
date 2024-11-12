@@ -3,7 +3,7 @@
 I like hiking, explaining geo-politics and solving coding problems.
 
 ### 👨‍💻 About me
-I'm Uzair,computer science student from Air University, Islamabad. 
+Computer science student from Air University, Islamabad. 
 
 ### 👥 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/uzairaslam1)  
