@@ -1,8 +1,6 @@
-[![MasterHead](https://github.com/uzairaslam437/uzairaslam437/blob/main/img.png)](https://yourportfolio-link.com)
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I'm+Uzair+Aslam;I+am+a+Software+Engineer+%F0%9F%91%8B&center=true&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,;+I'm+Uzair+Aslam;I+am+a;+Software+Engineer+%F0%9F%91%8B&center=true&size=35">
   </a>
 </h1>
 
