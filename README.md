@@ -14,7 +14,7 @@ Computer Science student at **Air University, Islamabad** with passion for solvi
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairaslam437&label=Profile%20views&color=0e75b6&style=flat" alt="uzairaslam437" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yourtwitter" target="blank"><img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="yourtwitter" /></a> </p>
+<p align="left"> <a href="https://twitter.com/yourtwitter" target="blank"><img src="https://img.shields.io/twitter/follow/uzairaslam_437?logo=twitter&style=for-the-badge" alt="yourtwitter" /></a> </p>
 
 - 🌱 I'm currently working as a Full Stack Engineer at **Cyberoide Tech**
 
