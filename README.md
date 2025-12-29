@@ -10,7 +10,7 @@
 
 <br>
 
-Computer Science student at **Air University, Islamabad** with passion for solving coding problems and building innovative projects.<br>I enjoy hiking, explaining geo-politics, and exploring new technologies.<br>Quick learner, always seeking opportunities to enhance my skills.<br>Actively involved in tech communities and open-source initiatives. Let's connect and collaborate on exciting projects! 🚀
+Computer Science student at **Air University, Islamabad** with passion for solving coding problems and building innovative projects.<br>I enjoy hiking, explaining geo-politics, history and conspiracy theories with exploring new technologies.<br>Quick learner, always seeking opportunities to enhance my skills.<br>Actively involved in tech communities and open-source initiatives. Let's connect and collaborate on exciting projects! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairaslam437&label=Profile%20views&color=0e75b6&style=flat" alt="uzairaslam437" /> </p>
 
