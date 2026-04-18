@@ -65,7 +65,7 @@ Computer Science student at **Air University, Islamabad** with passion for solvi
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></td>
-    <td colspan="5"></td>
+    <td colspan="9"></td>
   </tr>
 </table>
 
