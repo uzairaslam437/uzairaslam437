@@ -41,6 +41,10 @@ Computer Science student at **Air University, Islamabad** with passion for solvi
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></td>
   </tr>
 
   <tr>
@@ -52,19 +56,11 @@ Computer Science student at **Air University, Islamabad** with passion for solvi
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></td>
-  </tr>
-
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></td>
     <td><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
   </tr>
-
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></td>
