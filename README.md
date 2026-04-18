@@ -59,13 +59,7 @@ Computer Science student at **Air University, Islamabad** with passion for solvi
     <td><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/></td>
-    <td><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></td>
-    <td colspan="9"></td>
+   <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></td>
   </tr>
 </table>
 
