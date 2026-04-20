@@ -47,7 +47,7 @@ Computer Science student at **Air University, Islamabad** with passion for solvi
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/></td>
   </tr>
 
-  <tr>
+  <tr style="background-color: white;">
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></td>
     <td><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40"/></td>
     <td><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></td>
