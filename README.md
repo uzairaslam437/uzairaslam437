@@ -10,7 +10,7 @@
 
 <br>
 
-Computer Science student at **Air University, Islamabad** with passion for solving coding problems and building innovative projects. <br>I enjoy hiking, explaining geo-politics, history and conspiracy theories with exploring new technologies.<br>Quick learner, always seeking opportunities to enhance my skills.<br>Actively involved in tech communities and open-source initiatives. Let's connect and collaborate on exciting projects! 🚀
+Software Engineer at *Cyberoide Tech* with passion for solving coding problems and building innovative projects. <br>I enjoy hiking, explaining geo-politics, history and conspiracy theories with exploring new technologies.<br>Quick learner, always seeking opportunities to enhance my skills.<br>Actively involved in tech communities and open-source initiatives. Let's connect and collaborate on exciting projects! 🚀
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzairaslam437&label=Profile%20views&color=0e75b6&style=flat" alt="uzairaslam437" /> </p>
 
@@ -18,9 +18,9 @@ Computer Science student at **Air University, Islamabad** with passion for solvi
 
 - 🌱 I'm currently working as a Full Stack Engineer at **Cyberoide Tech**
 
-- 🎓 I'm currently studying **Computer Science at Air University, Islamabad**
+- 🎓 Computer Science Alumni **Air University**
 
-- 💬 Ask me about **C++, JavaScript, React, Next.js, Node.js, Flutter, Python**
+- 💬 Ask me about **C++, JavaScript, C#, React, Next.js, Node.js, Dart, Flutter, Python**
 
 - 📫 How to reach me **mruzairaslam1@gmail.com**
 
